@@ -1,4 +1,4 @@
-##Descripción📝Este es mi portafolio hecho en HTML,CSS y JAVASCRIP
+##Descripción📝Este es mi portafolio hecho en HTML,CSS y JAVASCRIPT
 
 tiempo de programacion⏰Este ejemplo ha sido programado en aproximadamente cuatro horas.
 
